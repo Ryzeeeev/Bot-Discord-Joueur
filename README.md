@@ -14,9 +14,17 @@ Ensuite dans le config.json >
 - <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
+# Support
+
+En cas de soucis vous pouvez me contacter sur discord
+  - Mon discord : Ryze"/#7474
+  - Mail : Bientôt
+
+
 
 <div align="center">
-<h3 align="center"># Voici le Bot Discord !</h3>
+<h3 align="center">Prochainement !</h3>
+<h4 align="center">Une petite création arrivera !</h4>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 
