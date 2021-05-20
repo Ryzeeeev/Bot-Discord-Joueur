@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "productName": "Discord Bot",
+  "version": "0.1.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "author": {
+    "name": "Bot FIVEM"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fivereborn-query": "^1.0.4"
+  }
+}
