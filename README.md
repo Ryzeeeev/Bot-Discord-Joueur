@@ -1,4 +1,4 @@
-                                                                     <h1 align="center"><b>Hello there, Im Ryze 👋</b></h1>
+  <h1 align="center"><b>Hello there, Im Ryze 👋</b></h1>
 
 
 
