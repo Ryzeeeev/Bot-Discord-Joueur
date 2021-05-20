@@ -16,7 +16,7 @@ Ensuite dans le config.json >
 
 
 <div align="center">
-<h3 align="center">Voici le Bot Discord !</h3>
+<h3 align="center"># Voici le Bot Discord !</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 
